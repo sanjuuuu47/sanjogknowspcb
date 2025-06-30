@@ -1,0 +1,6 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins
+BT1,1,Battery_Cell,BatteryHolder_Keystone_3034_1x20mm,,,,smt,Single-cell battery,
+"D1, D2, D3",3,LED,LED_D5.0mm,,,,tht,Light emitting diode,1=K 2=A
+R1,1,LDR03,R_LDR_5.1x4.3mm_P3.4mm_Vertical,,,,tht,light dependent resistor,
+"R2, R3, R4, R5, R6, R7",6,R,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,
+SW1,1,SW_Push,SW_PUSH_6mm,,,,tht,"Push button switch, generic, two pins",

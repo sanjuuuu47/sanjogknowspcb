@@ -1,0 +1,13 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+104.0,-116.0,180.0,bottom,BT1,,,BatteryHolder_Keystone_3034_1x20mm,Battery_Cell,smt
+125.9,-121.5,0.0,top,D1,,,LED_D5.0mm,LED,tht
+145.36,-121.5,0.0,top,D2,,,LED_D5.0mm,LED,tht
+135.125,-121.5,0.0,top,D3,,,LED_D5.0mm,LED,tht
+134.0,-112.0,0.0,top,R1,,,R_LDR_5.1x4.3mm_P3.4mm_Vertical,LDR03,tht
+125.0,-117.5,180.0,bottom,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,R,tht
+117.0,-106.5,-90.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,R,tht
+105.38,-103.0,0.0,top,R4,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,R,tht
+113.88,-124.0,0.0,top,R5,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,R,tht
+106.0,-130.5,0.0,top,R6,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,R,tht
+95.38,-130.5,0.0,top,R7,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,R,tht
+143.5,-107.0,0.0,top,SW1,,,SW_PUSH_6mm,SW_Push,tht
